@@ -1,6 +1,6 @@
 # Calculator
 
-This project was built using Vanilla Javascript and deployed with Turbo 360. To learn more, [click here:] : https://www.turbo360.co
+This project was built using Vanilla Javascript and deployed with Turbo 360.
 
 ##
 
