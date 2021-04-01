@@ -1,28 +1,11 @@
 # Calculator
 
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
-
-## Instructions
-After cloning into repo, cd to project root directory and install dependencies:
-
 ```
-$ npm install
+This project was built using Vanilla Javascript and deployed with Turbo 360. To learn more, click here: https://www.turbo360.co
 ```
 
-To run dev server, install Turbo CLI globally:
-
 ```
-$ sudo npm install turbo-cli -g
+For Live demo, click here: https://calculator-yhsrx1.turbo360-vertex.com/
 ```
 
-Then run devserver from project root directory:
-
-```
-$ turbo devserver
-```
-
-To build for production, run build:
-
-```
-$ npm run build
-```
+<img src="images/calculator.png">
