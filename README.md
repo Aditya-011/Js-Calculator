@@ -1,10 +1,36 @@
+
 # Calculator
 
 This project was built using Vanilla Javascript and deployed with Turbo 360.
 
-##
+## Demo
 
+https://calculator-yhsrx1.turbo360-vertex.com  
+## Deployment
 
-For Live demo, [click here:](https://calculator-yhsrx1.turbo360-vertex.com/)
+To deploy this project run
 
-<img src="public/images/calculator.png">
+```bash
+  npm install
+```
+```bash
+  turbo devserver
+```
+
+  
+## Features
+
+- Basic Calculator utilities
+- Dark-Light color mode toggle
+- Simple UI
+
+## Screenshots
+
+![App Screenshot](public/images/calculator.png)
+
+  
+## Support
+
+For support, email adihgr18@gmail.com
+
+  
